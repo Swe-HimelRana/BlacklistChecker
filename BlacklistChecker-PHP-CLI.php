@@ -108,7 +108,7 @@ if (!empty($ip)) {
 	 for ($i=0; $i <count($dnsbl); $i++){
 	 	echo "Checking for :-> $dnsbl[$i]";
 	 	if (checkdnsrr($reverse_ip.".".$dnsbl[$i].".","A")) {
-	 		echo "\t<----Listed ";
+	 		echo "  <----Listed ";
 	 		$list[$listed] = $dnsbl[$i];
 	 		$listed++;
 	 	}
