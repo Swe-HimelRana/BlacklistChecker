@@ -1,1 +1,1 @@
-# BlacklistChecker
+# BlacklistChecker PHP CLI Script
