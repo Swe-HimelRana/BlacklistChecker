@@ -1,7 +1,7 @@
 <?php 
 /*
 Blacklist testing script 
-Version: 0.9.2
+
 Commandline tool
 Coded in php 
 Coder : Himel Rana
@@ -12,6 +12,7 @@ Stackoverflow: https://stackoverflow.com/users/8780854/himel-rana
 HackRank: https://www.hackerrank.com/himelrana
 website: http://himel-rana.me
 Facebook: https://www.facebook.com/Swe.HimelRana
+Version: 0.9.2
 */
 error_reporting(0);
 
