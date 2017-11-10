@@ -1,10 +1,12 @@
 <?php 
 /*
 Blacklist testing script 
+Version: 0.9.2
 Commandline tool
 Coded in php 
 Coder : Himel Rana
 Date: 09-11-2017
+Last Update: 10-11-2017
 Github: https://github.com/Swe-HimelRana
 Stackoverflow: https://stackoverflow.com/users/8780854/himel-rana
 HackRank: https://www.hackerrank.com/himelrana
